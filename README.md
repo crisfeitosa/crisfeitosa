@@ -1,4 +1,4 @@
-# Hi There, I'm Cristiano Feitosa <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/wave.gif" width="30px" />
+# Hi There, I'm Cristiano Feitosa <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/hand.gif" width="30px" />
 
 - 🔭 I’m currently working as Trainee Frontend Developer [meutudoapp](https://www.meutudo.com.br/)
 - 🌱 I’m learning about ReactJs and React Native
