@@ -1,4 +1,4 @@
-# Hi There, I'm Cristiano Feitosa 👋
+# Hi There, I'm Cristiano Feitosa <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/wave.gif" width="30px" />
 
 - 🔭 I’m currently working as Trainee Frontend Developer [meutudoapp](https://www.meutudo.com.br/)
 - 🌱 I’m learning about ReactJs and React Native
@@ -7,7 +7,7 @@
 - 💬 Ask me about `[HTML, CSS, Javascript, ReactJS, React Native]` 
 
 #
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -20,7 +20,17 @@
 
 ##
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📈 GitHub Stats:</h3>
+
+ <div align="center">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crisfeitosa&hide_border=true&show_icons=true&theme=radical" />
+   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=crisfeitosa&hide_border=true&theme=radical&show_icons=true" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisfeitosa&hide_border=true&layout=compact&langs_count=10&theme=radical" />
+</div>
+
+##
+
+<h3 align="left">📝 Connect with me:</h3>
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/cristianofeitosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
@@ -28,10 +38,4 @@
 </p>
 
 <br>
-
- <div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crisfeitosa&hide_border=true&show_icons=true&theme=radical" />
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=crisfeitosa&hide_border=true&theme=radical&show_icons=true" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisfeitosa&hide_border=true&layout=compact&langs_count=10&theme=radical" />
-</div>
 
