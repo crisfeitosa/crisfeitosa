@@ -33,7 +33,7 @@
 
 ##
 
-<h3 align="left"👨🏻‍💻 My contributions:</h3>
+<h3 align="left">👨🏻‍💻 My contributions:</h3>
 
  <div align="center">
    <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/github-user-contribution.svg" />
