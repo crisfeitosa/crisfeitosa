@@ -33,6 +33,14 @@
 
 ##
 
+<h3 align="left"👨🏻‍💻 My contributions:</h3>
+
+ <div align="center">
+   <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/github-user-contribution.svg" />
+</div>
+
+##
+
 <h3 align="left">📝 Connect with me:</h3>
 
 <p align="left"> 
