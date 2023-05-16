@@ -28,7 +28,7 @@
  <div align="center">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crisfeitosa&hide_border=true&show_icons=true&theme=radical" />
    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=crisfeitosa&hide_border=true&theme=radical&show_icons=true" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisfeitosa&hide_border=true&layout=compact&langs_count=10&theme=radical" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisfeitosa&hide_border=true&layout=compact&langs_count=6&theme=radical" />
 </div>
 
 ##
