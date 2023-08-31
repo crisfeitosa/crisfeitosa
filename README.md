@@ -4,7 +4,7 @@
 - 🌱 I’m learning about ReactJs and React Native
 - 📚 Bachelor's degree in Information System | 7th semester | Universidade Estácio
 - 🖥️ I participate in online training of platforms: [Rocketseat](https://app.rocketseat.com.br/me/cristiano-feitosa)
-- 💬 Ask me about `[HTML, CSS, Javascript, ReactJS, React Native]` 
+- 💬 Ask me about `[HTML, CSS, JavaScript, TypeScript, ReactJS, React Native]` 
 
 #
 <h3 align="left"><img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/cat.gif" width="30"> Languages and Tools:</h3>
