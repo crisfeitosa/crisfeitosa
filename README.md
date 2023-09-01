@@ -1,6 +1,6 @@
 # Hi There, I'm Cristiano Feitosa <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/hand.gif" width="30px" />
 
-- 🔭 I’m currently working as Frontend Developer
+- 🔭 I’m currently working as Frontend Developer: [ME2 Softwares](https://me2.com.br/)
 - 🌱 I’m learning about ReactJs and React Native
 - 📚 Bachelor's degree in Information System | 7th semester | Universidade Estácio
 - 🖥️ I participate in online training of platforms: [Rocketseat](https://app.rocketseat.com.br/me/cristiano-feitosa)
