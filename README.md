@@ -19,6 +19,7 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/sass.svg" alt="sass" width="40" height="40"/></a> 
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/visualstudio.svg" alt="visualstudio" width="40" height="40"/></a> 
 <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/linux.svg" alt="linux" width="40" height="40"/></a> 
+<a href="https://pt.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/MacOS-Logo.svg" alt="MacOS" width="40" height="40"/></a> 
 </p>
 
 ##
