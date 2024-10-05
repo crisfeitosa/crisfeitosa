@@ -1,3 +1,5 @@
+<a href="https://app.rocketseat.com.br/me/cristiano-feitosa"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=cristiano-feitosa&type=card" width="280" alt="Cristiano Feitosa Bandeira's Rocket ID"/></a>
+
 # Hi There, I'm Cristiano Feitosa <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/hand.gif" width="30px" />
 
 - 🔭 I’m currently working as Frontend Developer: [ME2 Softwares](https://me2.com.br/)
@@ -21,8 +23,6 @@
 <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/linux.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://pt.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/MacOS-Logo.svg" alt="MacOS" width="40" height="40"/></a> 
 </p>
-
-<a href="https://app.rocketseat.com.br/me/cristiano-feitosa"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=cristiano-feitosa&type=card" width="280" alt="Cristiano Feitosa Bandeira's Rocket ID"/></a>
 
 ##
 
