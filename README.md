@@ -22,6 +22,8 @@
 <a href="https://pt.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/MacOS-Logo.svg" alt="MacOS" width="40" height="40"/></a> 
 </p>
 
+<a href="https://app.rocketseat.com.br/me/cristiano-feitosa"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=cristiano-feitosa&type=card" width="280" alt="Cristiano Feitosa Bandeira's Rocket ID"/></a>
+
 ##
 
 <h3 align="left">📈 GitHub Stats:</h3>
