@@ -1,6 +1,6 @@
-<a href="https://app.rocketseat.com.br/me/cristiano-feitosa"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=cristiano-feitosa&type=card" width="280" alt="Cristiano Feitosa Bandeira's Rocket ID"/></a>
-
 # Hi There, I'm Cristiano Feitosa <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/hand.gif" width="30px" />
+
+<a href="https://app.rocketseat.com.br/me/cristiano-feitosa"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=cristiano-feitosa&type=card" width="280" alt="Cristiano Feitosa Bandeira's Rocket ID"/></a>
 
 - 🔭 I’m currently working as Frontend Developer: [ME2 Softwares](https://me2.com.br/)
 - 🌱 I’m learning about ReactJs and React Native
