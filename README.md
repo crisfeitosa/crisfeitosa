@@ -4,11 +4,16 @@
 
 
 
-- 🔭 I’m currently working as Frontend Developer: [ME2 Softwares](https://me2.com.br/)
-- 🌱 I’m learning about ReactJs and React Native
+- 🧑‍💻 I’m currently working as Frontend Developer: [ME2 Softwares](https://me2.com.br/)
 - 📚 Bachelor's degree in Information System | 7th semester | Universidade Estácio
+- ⚡️ Main language: `Javascript` 
+- 🎉 Frontend: `React Native`, `Reactjs`, `HTML5`, `CSS`, `Javascript`, `Typescript`
+- 📡 Backend: `Nodejs`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version code control: `Git & Github`
+- 🔨 Tools: `VsCode`, `CodePen`
 - 🖥️ I participate in online training of platforms: [Rocketseat](https://app.rocketseat.com.br/me/cristiano-feitosa)
-- 💬 Ask me about `[HTML, CSS, JavaScript, TypeScript, ReactJS, React Native]` 
+
 
 #
 <h3 align="left"><img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/cat.gif" width="30"> Languages and Tools:</h3>
