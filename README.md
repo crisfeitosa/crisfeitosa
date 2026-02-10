@@ -7,7 +7,7 @@
 - 🧑‍💻 I’m currently working as Frontend Developer: [ME2 Softwares](https://me2.com.br/)
 - 📚 Bachelor's degree in Information System | 7th semester | Universidade Estácio
 - ⚡️ Main language: `Javascript` 
-- 🎉 Frontend: `React Native`, `Reactjs`, `HTML5`, `CSS`, `Javascript`, `Typescript`
+- 🎉 Frontend: `React Native`, `Reactjs`, `HTML5`, `CSS`, `Javascript`, `Typescript`, `Angular` 
 - 📡 Backend: `Nodejs`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
