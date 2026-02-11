@@ -24,6 +24,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/typescript.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/react.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/nextjs.svg" alt="nextjs" width="40" height="40"/></a>
+<a href="https://angular.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/angular.svg" alt="angular" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/php.svg" alt="php" width="40" height="40"/></a> 
+<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/laravel" alt="laravel" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/sass.svg" alt="sass" width="40" height="40"/></a> 
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/crisfeitosa/crisfeitosa/main/visualstudio.svg" alt="visualstudio" width="40" height="40"/></a> 
