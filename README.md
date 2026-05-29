@@ -4,7 +4,7 @@
 
 
 
-- 🧑‍💻 I’m currently working as Frontend Developer: [ME2 Softwares](https://me2.com.br/)
+- 🧑‍💻 I’m currently working as Software Engineer: [Accenture](https://www.accenture.com/)
 - 📚 Bachelor's degree in Information System | 7th semester | Universidade Estácio
 - ⚡️ Main language: `Javascript` 
 - 🎉 Frontend: `React Native`, `Reactjs`, `HTML5`, `CSS`, `Javascript`, `Typescript`, `Angular` 
